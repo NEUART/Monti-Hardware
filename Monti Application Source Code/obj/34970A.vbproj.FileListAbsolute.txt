@@ -1,0 +1,116 @@
+C:\Users\Bridge Family\Documents\Visual Studio 2005\Projects\Auto Cell Detector Jammer Config\34970A\obj\Debug\34970A.exe
+C:\Users\Bridge Family\Documents\Visual Studio 2005\Projects\Auto Cell Detector Jammer Config\34970A\obj\Debug\34970A.xml
+C:\Users\Bridge Family\Documents\Visual Studio 2005\Projects\Auto Cell Detector Jammer Config\34970A\obj\Debug\34970A.pdb
+C:\Users\Bridge Family\Documents\Visual Studio 2005\Projects\Auto Cell Detector Jammer Config\34970A\bin\Debug\34970A.exe
+C:\Users\Bridge Family\Documents\Visual Studio 2005\Projects\Auto Cell Detector Jammer Config\34970A\bin\Debug\34970A.pdb
+C:\Users\Bridge Family\Documents\Visual Studio 2005\Projects\Auto Cell Detector Jammer Config\34970A\bin\Debug\34970A.xml
+C:\Users\Bridge Family\Documents\Visual Studio 2005\Projects\Auto Cell Detector Jammer Config\34970A\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Bridge Family\Documents\Visual Studio 2005\Projects\Auto Cell Detector Jammer Config\34970A\obj\Debug\_34970A.Resources.resources
+C:\Users\Bridge Family\Documents\Visual Studio 2005\Projects\Auto Cell Detector Jammer Config\34970A\obj\Debug\34970A.vbproj.GenerateResource.Cache
+C:\Users\Bridge Family\Documents\Visual Studio 2005\Projects\Auto Cell Detector Jammer Config\34970A\bin\Debug\dotnetCharting.WinForms.dll
+C:\Users\Bridge Family\Documents\Visual Studio 2005\Projects\Auto Cell Detector Jammer Config\34970A\bin\Debug\Manco.Chart.dll
+C:\Users\Bridge Family\Documents\Visual Studio 2005\Projects\Auto Cell Detector Jammer Config\34970A\bin\Debug\dotnetCharting.WinForms.xml
+C:\Users\Bridge Family\Documents\Visual Studio 2005\Projects\Auto Cell Detector Jammer Config\34970A\bin\Debug\fr\Manco.Chart.resources.dll
+C:\Users\Bridge Family\Documents\Visual Studio 2005\Projects\Auto Cell Detector Jammer Config\34970A\bin\Debug\it\Manco.Chart.resources.dll
+C:\Users\Bridge Family\Documents\Visual Studio 2005\Projects\Auto Cell Detector Jammer Config\34970A\bin\Debug\ru\Manco.Chart.resources.dll
+C:\Users\Bridge Family\Documents\Visual Studio 2005\Projects\Auto Cell Detector Jammer Config\34970A\obj\Debug\_34970A.Form1.resources
+C:\Users\Bridge Family\Documents\Visual Studio 2005\Projects\Auto Cell Detector Jammer Config\Rod Tester\obj\Debug\34970A.exe
+C:\Users\Bridge Family\Documents\Visual Studio 2005\Projects\Auto Cell Detector Jammer Config\Rod Tester\obj\Debug\34970A.xml
+C:\Users\Bridge Family\Documents\Visual Studio 2005\Projects\Auto Cell Detector Jammer Config\Rod Tester\obj\Debug\34970A.pdb
+C:\Users\Bridge Family\Documents\Visual Studio 2005\Projects\Auto Cell Detector Jammer Config\Rod Tester\bin\Debug\34970A.exe
+C:\Users\Bridge Family\Documents\Visual Studio 2005\Projects\Auto Cell Detector Jammer Config\Rod Tester\bin\Debug\34970A.pdb
+C:\Users\Bridge Family\Documents\Visual Studio 2005\Projects\Auto Cell Detector Jammer Config\Rod Tester\bin\Debug\34970A.xml
+C:\Users\Bridge Family\Documents\Visual Studio 2005\Projects\Auto Cell Detector Jammer Config\Rod Tester\bin\Debug\dotnetCharting.WinForms.dll
+C:\Users\Bridge Family\Documents\Visual Studio 2005\Projects\Auto Cell Detector Jammer Config\Rod Tester\bin\Debug\Manco.Chart.dll
+C:\Users\Bridge Family\Documents\Visual Studio 2005\Projects\Auto Cell Detector Jammer Config\Rod Tester\bin\Debug\dotnetCharting.WinForms.xml
+C:\Users\Bridge Family\Documents\Visual Studio 2005\Projects\Auto Cell Detector Jammer Config\Rod Tester\bin\Debug\fr\Manco.Chart.resources.dll
+C:\Users\Bridge Family\Documents\Visual Studio 2005\Projects\Auto Cell Detector Jammer Config\Rod Tester\bin\Debug\it\Manco.Chart.resources.dll
+C:\Users\Bridge Family\Documents\Visual Studio 2005\Projects\Auto Cell Detector Jammer Config\Rod Tester\bin\Debug\ru\Manco.Chart.resources.dll
+C:\Users\Bridge Family\Documents\Visual Studio 2005\Projects\Auto Cell Detector Jammer Config\Rod Tester\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Bridge Family\Documents\Visual Studio 2005\Projects\Auto Cell Detector Jammer Config\Rod Tester\obj\Debug\_34970A.Form1.resources
+C:\Users\Bridge Family\Documents\Visual Studio 2005\Projects\Auto Cell Detector Jammer Config\Rod Tester\obj\Debug\_34970A.Resources.resources
+C:\Users\Bridge Family\Documents\Visual Studio 2005\Projects\Auto Cell Detector Jammer Config\Rod Tester\obj\Debug\34970A.vbproj.GenerateResource.Cache
+C:\Users\Bridge Family\Documents\Visual Studio 2005\Projects\Auto Cell Detector Jammer Config\Rod Tester\bin\Release\34970A.exe.manifest
+C:\Users\Bridge Family\Documents\Visual Studio 2005\Projects\Auto Cell Detector Jammer Config\Rod Tester\bin\Release\34970A.application
+C:\Users\Bridge Family\Documents\Visual Studio 2005\Projects\Auto Cell Detector Jammer Config\Rod Tester\bin\Release\34970A.exe
+C:\Users\Bridge Family\Documents\Visual Studio 2005\Projects\Auto Cell Detector Jammer Config\Rod Tester\bin\Release\34970A.pdb
+C:\Users\Bridge Family\Documents\Visual Studio 2005\Projects\Auto Cell Detector Jammer Config\Rod Tester\bin\Release\34970A.xml
+C:\Users\Bridge Family\Documents\Visual Studio 2005\Projects\Auto Cell Detector Jammer Config\Rod Tester\bin\Release\dotnetCharting.WinForms.dll
+C:\Users\Bridge Family\Documents\Visual Studio 2005\Projects\Auto Cell Detector Jammer Config\Rod Tester\bin\Release\Manco.Chart.dll
+C:\Users\Bridge Family\Documents\Visual Studio 2005\Projects\Auto Cell Detector Jammer Config\Rod Tester\bin\Release\dotnetCharting.WinForms.xml
+C:\Users\Bridge Family\Documents\Visual Studio 2005\Projects\Auto Cell Detector Jammer Config\Rod Tester\bin\Release\fr\Manco.Chart.resources.dll
+C:\Users\Bridge Family\Documents\Visual Studio 2005\Projects\Auto Cell Detector Jammer Config\Rod Tester\bin\Release\it\Manco.Chart.resources.dll
+C:\Users\Bridge Family\Documents\Visual Studio 2005\Projects\Auto Cell Detector Jammer Config\Rod Tester\bin\Release\ru\Manco.Chart.resources.dll
+C:\Users\Bridge Family\Documents\Visual Studio 2005\Projects\Auto Cell Detector Jammer Config\Rod Tester\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Bridge Family\Documents\Visual Studio 2005\Projects\Auto Cell Detector Jammer Config\Rod Tester\obj\Release\_34970A.Form1.resources
+C:\Users\Bridge Family\Documents\Visual Studio 2005\Projects\Auto Cell Detector Jammer Config\Rod Tester\obj\Release\_34970A.Resources.resources
+C:\Users\Bridge Family\Documents\Visual Studio 2005\Projects\Auto Cell Detector Jammer Config\Rod Tester\obj\Release\34970A.vbproj.GenerateResource.Cache
+C:\Users\Bridge Family\Documents\Visual Studio 2005\Projects\Auto Cell Detector Jammer Config\Rod Tester\obj\Release\34970A.exe.manifest
+C:\Users\Bridge Family\Documents\Visual Studio 2005\Projects\Auto Cell Detector Jammer Config\Rod Tester\obj\Release\34970A.application
+C:\Users\Bridge Family\Documents\Visual Studio 2005\Projects\Auto Cell Detector Jammer Config\Rod Tester\obj\Release\34970A.exe
+C:\Users\Bridge Family\Documents\Visual Studio 2005\Projects\Auto Cell Detector Jammer Config\Rod Tester\obj\Release\34970A.xml
+C:\Users\Bridge Family\Documents\Visual Studio 2005\Projects\Auto Cell Detector Jammer Config\Rod Tester\obj\Release\34970A.pdb
+C:\Users\Bridge Family\Documents\Visual Studio 2005\Projects\Auto Cell Detector Jammer Config\TENS Control\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Bridge Family\Documents\Visual Studio 2005\Projects\Auto Cell Detector Jammer Config\TENS Control\obj\Debug\_34970A.Form1.resources
+C:\Users\Bridge Family\Documents\Visual Studio 2005\Projects\Auto Cell Detector Jammer Config\TENS Control\obj\Debug\_34970A.Resources.resources
+C:\Users\Bridge Family\Documents\Visual Studio 2005\Projects\Auto Cell Detector Jammer Config\TENS Control\obj\Debug\34970A.vbproj.GenerateResource.Cache
+C:\Users\Bridge Family\Documents\Visual Studio 2005\Projects\Auto Cell Detector Jammer Config\TENS Control\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Bridge Family\Documents\Visual Studio 2005\Projects\Auto Cell Detector Jammer Config\TENS Control\obj\Release\_34970A.Form1.resources
+C:\Users\Bridge Family\Documents\Visual Studio 2005\Projects\Auto Cell Detector Jammer Config\TENS Control\obj\Release\_34970A.Resources.resources
+C:\Users\Bridge Family\Documents\Visual Studio 2005\Projects\Auto Cell Detector Jammer Config\TENS Control\obj\Release\34970A.vbproj.GenerateResource.Cache
+C:\Users\Bridge Family\Documents\Visual Studio 2005\Projects\Auto Cell Detector Jammer Config\TENS Control\bin\Release\Tens Control.exe.manifest
+C:\Users\Bridge Family\Documents\Visual Studio 2005\Projects\Auto Cell Detector Jammer Config\TENS Control\bin\Release\Tens Control.application
+C:\Users\Bridge Family\Documents\Visual Studio 2005\Projects\Auto Cell Detector Jammer Config\TENS Control\bin\Release\Tens Control.exe
+C:\Users\Bridge Family\Documents\Visual Studio 2005\Projects\Auto Cell Detector Jammer Config\TENS Control\bin\Release\Tens Control.pdb
+C:\Users\Bridge Family\Documents\Visual Studio 2005\Projects\Auto Cell Detector Jammer Config\TENS Control\bin\Release\Tens Control.xml
+C:\Users\Bridge Family\Documents\Visual Studio 2005\Projects\Auto Cell Detector Jammer Config\TENS Control\obj\Release\Tens Control.exe.manifest
+C:\Users\Bridge Family\Documents\Visual Studio 2005\Projects\Auto Cell Detector Jammer Config\TENS Control\obj\Release\Tens Control.application
+C:\Users\Bridge Family\Documents\Visual Studio 2005\Projects\Auto Cell Detector Jammer Config\TENS Control\obj\Release\Tens Control.exe
+C:\Users\Bridge Family\Documents\Visual Studio 2005\Projects\Auto Cell Detector Jammer Config\TENS Control\obj\Release\Tens Control.xml
+C:\Users\Bridge Family\Documents\Visual Studio 2005\Projects\Auto Cell Detector Jammer Config\TENS Control\obj\Release\Tens Control.pdb
+C:\Users\Bridge Family\Documents\Visual Studio 2005\Projects\Auto Cell Detector Jammer Config\TENS Control\bin\Debug\Tens Control.exe.manifest
+C:\Users\Bridge Family\Documents\Visual Studio 2005\Projects\Auto Cell Detector Jammer Config\TENS Control\bin\Debug\Tens Control.application
+C:\Users\Bridge Family\Documents\Visual Studio 2005\Projects\Auto Cell Detector Jammer Config\TENS Control\bin\Debug\Tens Control.exe
+C:\Users\Bridge Family\Documents\Visual Studio 2005\Projects\Auto Cell Detector Jammer Config\TENS Control\bin\Debug\Tens Control.pdb
+C:\Users\Bridge Family\Documents\Visual Studio 2005\Projects\Auto Cell Detector Jammer Config\TENS Control\bin\Debug\Tens Control.xml
+C:\Users\Bridge Family\Documents\Visual Studio 2005\Projects\Auto Cell Detector Jammer Config\TENS Control\obj\Debug\Tens Control.exe.manifest
+C:\Users\Bridge Family\Documents\Visual Studio 2005\Projects\Auto Cell Detector Jammer Config\TENS Control\obj\Debug\Tens Control.application
+C:\Users\Bridge Family\Documents\Visual Studio 2005\Projects\Auto Cell Detector Jammer Config\TENS Control\obj\Debug\Tens Control.exe
+C:\Users\Bridge Family\Documents\Visual Studio 2005\Projects\Auto Cell Detector Jammer Config\TENS Control\obj\Debug\Tens Control.xml
+C:\Users\Bridge Family\Documents\Visual Studio 2005\Projects\Auto Cell Detector Jammer Config\TENS Control\obj\Debug\Tens Control.pdb
+C:\Users\Bridge Family\Documents\Visual Studio 2005\Projects\Auto Cell Detector Jammer Config\elderly\obj\Debug\Tens Control.exe
+C:\Users\Bridge Family\Documents\Visual Studio 2005\Projects\Auto Cell Detector Jammer Config\elderly\obj\Debug\Tens Control.xml
+C:\Users\Bridge Family\Documents\Visual Studio 2005\Projects\Auto Cell Detector Jammer Config\elderly\obj\Debug\Tens Control.pdb
+C:\Users\Bridge Family\Documents\Visual Studio 2005\Projects\Auto Cell Detector Jammer Config\elderly\bin\Debug\Tens Control.exe.manifest
+C:\Users\Bridge Family\Documents\Visual Studio 2005\Projects\Auto Cell Detector Jammer Config\elderly\bin\Debug\Tens Control.application
+C:\Users\Bridge Family\Documents\Visual Studio 2005\Projects\Auto Cell Detector Jammer Config\elderly\bin\Debug\Tens Control.exe
+C:\Users\Bridge Family\Documents\Visual Studio 2005\Projects\Auto Cell Detector Jammer Config\elderly\bin\Debug\Tens Control.pdb
+C:\Users\Bridge Family\Documents\Visual Studio 2005\Projects\Auto Cell Detector Jammer Config\elderly\bin\Debug\Tens Control.xml
+C:\Users\Bridge Family\Documents\Visual Studio 2005\Projects\Auto Cell Detector Jammer Config\elderly\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Bridge Family\Documents\Visual Studio 2005\Projects\Auto Cell Detector Jammer Config\elderly\obj\Debug\_34970A.Form1.resources
+C:\Users\Bridge Family\Documents\Visual Studio 2005\Projects\Auto Cell Detector Jammer Config\elderly\obj\Debug\_34970A.Resources.resources
+C:\Users\Bridge Family\Documents\Visual Studio 2005\Projects\Auto Cell Detector Jammer Config\elderly\obj\Debug\34970A.vbproj.GenerateResource.Cache
+C:\Users\Bridge Family\Documents\Visual Studio 2005\Projects\Auto Cell Detector Jammer Config\elderly\obj\Debug\Tens Control.exe.manifest
+C:\Users\Bridge Family\Documents\Visual Studio 2005\Projects\Auto Cell Detector Jammer Config\elderly\obj\Debug\Tens Control.application
+C:\Users\Bridge Family\Documents\Visual Studio 2005\Projects\Auto Cell Detector Jammer Config\elderly\bin\Debug\Manco.Chart.dll
+C:\Users\Bridge Family\Documents\Visual Studio 2005\Projects\Auto Cell Detector Jammer Config\elderly\bin\Debug\fr\Manco.Chart.resources.dll
+C:\Users\Bridge Family\Documents\Visual Studio 2005\Projects\Auto Cell Detector Jammer Config\elderly\bin\Debug\it\Manco.Chart.resources.dll
+C:\Users\Bridge Family\Documents\Visual Studio 2005\Projects\Auto Cell Detector Jammer Config\elderly\bin\Debug\ru\Manco.Chart.resources.dll
+C:\Users\Bridge Family\Documents\Visual Studio 2005\Projects\Auto Cell Detector Jammer Config\elderly\bin\Release\Tens Control.exe.manifest
+C:\Users\Bridge Family\Documents\Visual Studio 2005\Projects\Auto Cell Detector Jammer Config\elderly\bin\Release\Tens Control.application
+C:\Users\Bridge Family\Documents\Visual Studio 2005\Projects\Auto Cell Detector Jammer Config\elderly\bin\Release\Tens Control.exe
+C:\Users\Bridge Family\Documents\Visual Studio 2005\Projects\Auto Cell Detector Jammer Config\elderly\bin\Release\Tens Control.pdb
+C:\Users\Bridge Family\Documents\Visual Studio 2005\Projects\Auto Cell Detector Jammer Config\elderly\bin\Release\Tens Control.xml
+C:\Users\Bridge Family\Documents\Visual Studio 2005\Projects\Auto Cell Detector Jammer Config\elderly\bin\Release\Manco.Chart.dll
+C:\Users\Bridge Family\Documents\Visual Studio 2005\Projects\Auto Cell Detector Jammer Config\elderly\bin\Release\fr\Manco.Chart.resources.dll
+C:\Users\Bridge Family\Documents\Visual Studio 2005\Projects\Auto Cell Detector Jammer Config\elderly\bin\Release\it\Manco.Chart.resources.dll
+C:\Users\Bridge Family\Documents\Visual Studio 2005\Projects\Auto Cell Detector Jammer Config\elderly\bin\Release\ru\Manco.Chart.resources.dll
+C:\Users\Bridge Family\Documents\Visual Studio 2005\Projects\Auto Cell Detector Jammer Config\elderly\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Bridge Family\Documents\Visual Studio 2005\Projects\Auto Cell Detector Jammer Config\elderly\obj\Release\_34970A.Form1.resources
+C:\Users\Bridge Family\Documents\Visual Studio 2005\Projects\Auto Cell Detector Jammer Config\elderly\obj\Release\_34970A.Resources.resources
+C:\Users\Bridge Family\Documents\Visual Studio 2005\Projects\Auto Cell Detector Jammer Config\elderly\obj\Release\34970A.vbproj.GenerateResource.Cache
+C:\Users\Bridge Family\Documents\Visual Studio 2005\Projects\Auto Cell Detector Jammer Config\elderly\obj\Release\Tens Control.exe.manifest
+C:\Users\Bridge Family\Documents\Visual Studio 2005\Projects\Auto Cell Detector Jammer Config\elderly\obj\Release\Tens Control.application
+C:\Users\Bridge Family\Documents\Visual Studio 2005\Projects\Auto Cell Detector Jammer Config\elderly\obj\Release\Tens Control.exe
+C:\Users\Bridge Family\Documents\Visual Studio 2005\Projects\Auto Cell Detector Jammer Config\elderly\obj\Release\Tens Control.xml
+C:\Users\Bridge Family\Documents\Visual Studio 2005\Projects\Auto Cell Detector Jammer Config\elderly\obj\Release\Tens Control.pdb
